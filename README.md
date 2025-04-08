@@ -1,0 +1,1 @@
+Este repositório contém commits relacionados às atividades propostas nas Listas de Atividades da disciplina de Programação de Soluções Computacionais, com o objetivo de praticar lógica de programação utilizando a linguagem C#.
